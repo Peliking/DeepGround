@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 9fbfa27700c077747adb97a7e832af8a
+timeCreated: 1547354915
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Cube
+    100004: Cylinder
+    100006: Cylinder_001
+    100008: Cylinder_002
+    100010: Cylinder_003
+    100012: Cylinder_004
+    100014: Cylinder_005
+    100016: Cylinder_007
+    100018: Cylinder_008
+    100020: Cylinder_009
+    100022: Cylinder_010
+    100024: Icosphere
+    100026: Icosphere_004
+    100028: Icosphere_005
+    100030: Icosphere_006
+    100032: Icosphere_007
+    100034: //RootNode
+    400000: Circle
+    400002: Cube
+    400004: Cylinder
+    400006: Cylinder_001
+    400008: Cylinder_002
+    400010: Cylinder_003
+    400012: Cylinder_004
+    400014: Cylinder_005
+    400016: Cylinder_007
+    400018: Cylinder_008
+    400020: Cylinder_009
+    400022: Cylinder_010
+    400024: Icosphere
+    400026: Icosphere_004
+    400028: Icosphere_005
+    400030: Icosphere_006
+    400032: Icosphere_007
+    400034: //RootNode
+    2300000: Circle
+    2300002: Cube
+    2300004: Cylinder
+    2300006: Cylinder_001
+    2300008: Cylinder_002
+    2300010: Cylinder_003
+    2300012: Cylinder_004
+    2300014: Cylinder_005
+    2300016: Cylinder_007
+    2300018: Cylinder_008
+    2300020: Cylinder_009
+    2300022: Cylinder_010
+    2300024: Icosphere
+    2300026: Icosphere_004
+    2300028: Icosphere_005
+    2300030: Icosphere_006
+    2300032: Icosphere_007
+    3300000: Circle
+    3300002: Cube
+    3300004: Cylinder
+    3300006: Cylinder_001
+    3300008: Cylinder_002
+    3300010: Cylinder_003
+    3300012: Cylinder_004
+    3300014: Cylinder_005
+    3300016: Cylinder_007
+    3300018: Cylinder_008
+    3300020: Cylinder_009
+    3300022: Cylinder_010
+    3300024: Icosphere
+    3300026: Icosphere_004
+    3300028: Icosphere_005
+    3300030: Icosphere_006
+    3300032: Icosphere_007
+    4300000: Circle
+    4300002: Icosphere_007
+    4300004: Icosphere_006
+    4300006: Icosphere_005
+    4300008: Icosphere_004
+    4300010: Cylinder_010
+    4300012: Cylinder_009
+    4300014: Cylinder_008
+    4300016: Cylinder_007
+    4300018: Icosphere
+    4300020: Cylinder_005
+    4300022: Cylinder_004
+    4300024: Cylinder_003
+    4300026: Cylinder_002
+    4300028: Cylinder_001
+    4300030: Cylinder
+    4300032: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 3181df6b8abe493438cd5af19a860fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: b846325d289dcfe48b2145bfbadad6f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pathway
+    second: {fileID: 2100000, guid: 90018e32cfdee7346a3b88223808d1ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: bb6d617df18d70347b345d13dba81ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadPaint
+    second: {fileID: 2100000, guid: e8a2ac3ec7206a44ebd776f92f1ca25f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk
+    second: {fileID: 2100000, guid: 76e48c3d40aba224b8cb5d41784bbe69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: b4af1d3abce5b4346abb1ba8faecf13b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

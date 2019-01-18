@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ee2353c921ae0994aaf9dc1c4ebdcef9
+timeCreated: 1547356774
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 260
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: caf? & brewery
+  fontNames:
+  - caf? & brewery
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

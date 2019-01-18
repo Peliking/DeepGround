@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TitleScreen.unity
+    guid: 57c6ea11b3e792b43bd09eb5e82771de
+  - enabled: 1
+    path: Assets/Deep Ground.unity
+    guid: 14e88942fccfbbc4088d80774caf76bb
+  - enabled: 1
+    path: Assets/Ending.unity
+    guid: e76f8bbe8146f3d4dbc8406482eb4dc8
